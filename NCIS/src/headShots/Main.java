@@ -1,3 +1,8 @@
+/*
+ * Bill Nicholson
+ * nicholdw@ucmail.uc.edu
+ * A dumb NCIS simulator
+ */
 package headShots;
 
 import java.awt.Image;

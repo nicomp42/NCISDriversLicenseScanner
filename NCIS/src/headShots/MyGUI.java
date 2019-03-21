@@ -1,3 +1,8 @@
+/*
+ * Bill Nicholson
+ * nicholdw@ucmail.uc.edu
+ * A dumb NCIS simulator
+ */
 // Swing timer adapted from http://www.javapractices.com/topic/TopicAction.do?Id=160
 package headShots;
 
