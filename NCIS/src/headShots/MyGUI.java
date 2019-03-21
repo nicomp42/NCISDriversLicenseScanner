@@ -6,7 +6,7 @@
 // Swing timer adapted from http://www.javapractices.com/topic/TopicAction.do?Id=160
 package headShots;
 
-import java.awt.AlphaComposite;
+import java.awt.AlphaComposite; 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.Graphics;
